@@ -1,4 +1,9 @@
 package com.awsgen.build;
 
-public class Context {
+import com.awsgen.build.contracts.ContextContract;
+
+public class Context implements ContextContract {
+
+    public Context() {
+    }
 }
