@@ -1,1 +1,1 @@
-Skeleton project - learning the Pipeline design pattern.
+Skeleton project - research into the Pipeline design pattern.
